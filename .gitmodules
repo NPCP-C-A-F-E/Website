@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NPCP-C-A-F-E/BackEnd
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/NPCP-C-A-F-E/FrontEnd
